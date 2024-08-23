@@ -1,0 +1,45 @@
+.box{
+    margin: 2px 1px;
+    padding: 1px 3px;
+    border-color: rgb(12, 11, 11);
+    border-radius: 10px;
+    border: 1px solid lightgrey;
+    width: 900px;
+}
+.para1{
+    color: rgb(95, 92, 92);
+    border-radius: 10px;
+    font-size: small;
+}
+.heading{
+    width: 400px;
+    color: rgb(40, 39, 39);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    margin: 10px 10px;
+}
+.para2{
+    width: 250px;
+    color: rgb(104, 99, 99);
+    margin: 20px 10px;
+}
+.login{
+    width: 250px ;
+    padding: 14px 0px;
+    color: rgba(19, 124, 200, 0.909);
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    font-size: large;
+    margin: 10px 10px;
+    background-color: white;
+}
+.sub{
+    width: 250px;
+    font-size: small;
+    margin: 12px;
+    color: rgb(104, 99, 99);
+}
+.image{
+    margin: 10px 0px;
+    border: 1px auto;
+}
